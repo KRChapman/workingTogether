@@ -71,7 +71,7 @@ git push -u origin <your_branch_name>
 
 **14.** Click on `Create Pull Request`.
 
-**15.** Congrats !! You made your first PR 🥳.
+**15.** Partner A will Accept the Pull Request and merge changes.
 
 <p align="center"><img width=35% src="https://media.giphy.com/media/TdfyKrN7HGTIY/giphy.gif"></p>
 <hr>
