@@ -1,6 +1,6 @@
 
 
-**0.**  Partner A creates a brand new repo in thier github with a readme.
+**0.**  Partner A creates a brand new repo in their github with a readme.
 
 **1.**  Fork Partner B forkes the newly created repo.
 
