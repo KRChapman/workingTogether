@@ -2,7 +2,7 @@
 
 **0.**  Partner A creates a brand new repo in their github with a readme.
 
-**1.**  Fork Partner B forkes the newly created repo.
+**1.**  Partner B forkes the newly created repo.
 
 **2.**  Partner A clones their repo they created and Partner B clones the repo they forked.
 
