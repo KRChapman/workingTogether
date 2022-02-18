@@ -26,6 +26,7 @@ git remote -v
 ```
 
 **6.** It is always advised to take a pull from the upstream repository to your main/master branch to keep it even with the main project(updated repository).
+
 Partner A
 ```
 git pull origin main(or master)
