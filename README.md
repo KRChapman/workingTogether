@@ -39,6 +39,7 @@ git pull upstream  main(or master)
 **7.** Both Parnters can Create a new branch with the name of the feature or page they are working on.
  Make sure you are on main or master and type git status and that it is working and clean.
 ```
+git status 
 git checkout -b <your_branch_name>
 ```
 
