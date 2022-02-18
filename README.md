@@ -25,7 +25,7 @@ Partner B adds a remote with command: git remote add upstream <<<<https://github
 git remote -v
 ```
 
-**6.** It is always advised to take a pull from the upstream repository to your master branch to keep it even with the main project(updated repository).
+**6.** It is always advised to take a pull from the upstream repository to your main/master branch to keep it even with the main project(updated repository).
 
 ```
 git pull upstream  main(or master)
