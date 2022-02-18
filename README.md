@@ -26,13 +26,18 @@ git remote -v
 ```
 
 **6.** It is always advised to take a pull from the upstream repository to your main/master branch to keep it even with the main project(updated repository).
+Partner A
+```
+git pull origin  main(or master)
+```
 
+Partner B
 ```
 git pull upstream  main(or master)
 ```
 
 **7.** Both Parnters can Create a new branch with the name of the feature or page they are working on.
-
+ Make sure you are on main or master and type git status and that it is working and clean.
 ```
 git checkout -b <your_branch_name>
 ```
