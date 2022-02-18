@@ -65,7 +65,7 @@ git commit -m "Message related to changes you made in the code"
 git push -u origin <your_branch_name>
 ```
 
-**12.** To create a pull request, click on `compare and pull requests`. Please ensure that both the branches are even in order to avoid merge conficts
+**12.** To create a pull request, click on `compare and pull requests`.
 
 **13.** Add a title and description to your PR explaining the features you added.
 
