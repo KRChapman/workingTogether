@@ -10,13 +10,13 @@
 **3.** Navigate to the project directory :file_folder: .
 
 ```
-cd Blood-Buddy
+cd <your project folder>
 ```
 
-**4.** Add a remote upstream to the original repository.
+**4.** Partner B Add a remote upstream to the original repository created by partner A.
 
 ```
-Partner B adds a remote with command: git remote add upstream https://github.comTHIS-SHOULD-BE PARTNER-A-REMOTE.git
+Partner B adds a remote with command: git remote add upstream <<<<https://github.comTHIS-SHOULD-BE PARTNER-A-REMOTE.git>>>>>>
 ```
 
 **5.** Check the remotes for the repository.
