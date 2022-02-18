@@ -65,11 +65,11 @@ git commit -m "Message related to changes you made in the code"
 git push -u origin <your_branch_name>
 ```
 
-**12.** To create a pull request, click on `compare and pull requests`.
+**12.** Partner B To create a pull request, click on `compare and pull requests`.
 
-**13.** Add a title and description to your PR explaining the features you added.
+**13.** Partner B Add a title and description to your PR explaining the features you added.
 
-**14.** Click on `Create Pull Request`.
+**14.** Partner B Click on `Create Pull Request`.
 
 **15.** Partner A will Accept the Pull Request and merge changes.
 
