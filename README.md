@@ -25,6 +25,9 @@ Partner B adds a remote with command:
 git remote -v
 ```
 
+START HERE FOR EVERY PAGE OR FEATURE YOU MAKE
+
+
 **6.** It is always advised to take a pull from the upstream repository to your main/master branch to keep it even with the main project(updated repository).
 
 Make SURE you are in main when you pull
