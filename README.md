@@ -1,7 +1,7 @@
 
 
 
-Only do 0 through 4 once for setup!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!! Only do 0 through 4 once for setup !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 <br>
 <br>
 **0.**  Partner A creates a brand new repo in their github with a readme.
