@@ -28,9 +28,9 @@ git remote -v
 <br>
 <br>
 
-START HERE FOR EVERY PAGE OR FEATURE YOU MAKE
+START HERE FOR EVERY PAGE OR FEATURE YOU MAKE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 <br>
-<br>
+
 
 **6.** It is always advised to take a pull from the upstream repository to your main/master branch to keep it even with the main project(updated repository).
 
