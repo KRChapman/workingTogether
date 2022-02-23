@@ -21,7 +21,7 @@ cd <your project folder>
 **4.** Partner B Add a remote upstream to the original repository created by partner A.
 Partner B adds a remote with command:
 ```
- git remote add upstream <<<<https://github.comTHIS-SHOULD-BE PARTNER-A-REMOTE.git>>>>>>
+ git remote add upstream <<<<https://github.comPartner-A-Remote.git>>>>>>
 ```
 Only do 0 through 4 once for setup!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
