@@ -25,6 +25,9 @@ Partner B adds a remote with command:
 git remote -v
 ```
 
+
+
+
 START HERE FOR EVERY PAGE OR FEATURE YOU MAKE
 
 
