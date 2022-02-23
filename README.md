@@ -1,5 +1,8 @@
 
 
+
+Only do 0 through 4 once for setup!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+<br>
 **0.**  Partner A creates a brand new repo in their github with a readme.
 
 **1.**  Partner B forkes the newly created repo.
@@ -18,6 +21,7 @@ Partner B adds a remote with command:
 ```
  git remote add upstream <<<<https://github.comTHIS-SHOULD-BE PARTNER-A-REMOTE.git>>>>>>
 ```
+Only do 0 through 4 once for setup!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 **5.** Check the remotes for the repository.
 
