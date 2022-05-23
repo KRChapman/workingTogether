@@ -16,8 +16,7 @@
 ```
 cd <your project folder>
 ```
-!!! Only do 0 through 4 once for setup !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-<br>
+
 **4.** Partner B Add a remote upstream to the original repository created by partner A.
 Partner B adds a remote with command:
 ```
