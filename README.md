@@ -6,7 +6,21 @@
 Remember Partner A is the one person who has a main repo everyone else is Partner B.
 <br>
 <br>
-**0.**  Partner A creates a brand new repo in their github with a readme(if not using create-react-app).
+**0.**  Partner A creates a brand new repo in their github with a readme (if not using create-react-app).
+<details><summary>Folow For React</summary>
+
+1. In terminal type `npx create-react-app my-app-name-here`
+2. In terminal type `cd my-app-name-here`
+3. Go to github and create a new repository without a readme
+4. Follow the directions github(skip commit and every thing before it) start at re-naming the branch from master to main
+
+`git branch -M main`
+
+`git remote add origin https://github.com/**YourURLHERE**/**YourREPO**t.git`   ( Copy and paste YOUR remote)
+
+`git push -u origin main`
+
+</details>
 
 **1.**  Partner B forkes the newly created repo.
 
