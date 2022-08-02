@@ -2,6 +2,7 @@
 
 
 !!! Only do 0 through 4 once for setup !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Remember Partner A is the one person who has a main repo everyone else is Partner B.
 <br>
 <br>
 **0.**  Partner A creates a brand new repo in their github with a readme.
