@@ -24,7 +24,7 @@ Remember Partner A is the one person who has a main repo everyone else is Partne
 
 **1.**  Partner B forkes the newly created repo.
 
-**2.**  Partner A clones their repo they created and Partner B clones the repo they forked.
+**2.**  Partner A If not using react clones their repo they created. Then Partner B clones the repo they forked regardles of what library they are using.
 
 
 **3.** Navigate to the project directory :file_folder: .
