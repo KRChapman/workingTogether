@@ -101,7 +101,7 @@ git commit -m "Message related to changes you made in the code"
 **11.** Push the committed changes in your feature branch to your remote repo.
 
 ```
-git push -u origin <your_branch_name>
+git push -u origin your_branch_name
 ```
 
 **12.** Go to your github To create a pull request, click on `compare and pull requests`.
