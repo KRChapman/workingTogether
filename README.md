@@ -73,7 +73,7 @@ git pull upstream main(or master)
  Make sure you are on main or master and type git status and that it is working and clean.
 ```
 git status 
-git checkout -b <your_branch_name>
+git checkout -b your_branch_name
 ```
 
 **8.** Perform your desired changes to the code base.
