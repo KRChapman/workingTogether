@@ -24,7 +24,7 @@ Remember Partner A is the one person who has a main repo everyone else is Partne
 
 **1.**  Partner B forkes the newly created repo.
 
-**2.**  Partner A If not using react clones their repo they created. Then Partner B clones the repo they forked regardles of what library they are using.
+**2.**  Partner A If not using react clones their repo they created. Then Partner B clones their own repo they forked regardles of what library they are using.
 
 
 **3.** Navigate to the project directory :file_folder: .
@@ -34,7 +34,7 @@ cd <your project folder>
 ```
 
 **4.** Partner B Add a remote upstream to the original repository created by partner A.
-Partner B adds a remote with command: SHOULD BE THE ONE YOU CLONED
+Partner B adds a remote with command: SHOULD BE YOUR PARTNER A REPO
 ```
  git remote add upstream https://github.com-Partner-A-Remote.git
 ```
