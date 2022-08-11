@@ -34,7 +34,7 @@ cd <your project folder>
 ```
 
 **4.** Partner B Add a remote upstream to the original repository created by partner A.
-Partner B adds a remote with command:
+Partner B adds a remote with command: SHOULD BE THE ONE YOU CLONED
 ```
  git remote add upstream https://github.com-Partner-A-Remote.git
 ```
