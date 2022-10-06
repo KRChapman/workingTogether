@@ -38,7 +38,7 @@ Partner B adds a remote with command:                      SHOULD BE YOUR PARTNE
 ```
  git remote add upstream https://github.com-Partner-A-Remote.git
 ```
-Only do 0 through 4 once for setup!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Only do 0 through 4 once for setup!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 **5.** Check the remotes for the repository.
 
